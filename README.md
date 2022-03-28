@@ -3,6 +3,7 @@
 - This is a base code structure of using pure PHP with Model View Controller (MVC) architecture
 - The use of router is implemented as well
 - It helps in making ease of PHP website development
+- Inspired by the code structure of Laravel
 
 # File Structure
 Model
